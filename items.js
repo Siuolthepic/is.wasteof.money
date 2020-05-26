@@ -2,6 +2,10 @@ const items  = [
     {name: 'iphone', isWaste: true},
     {name: 'android', isWaste: false},
     {name: 'minecraft', isWaste: false},
+    {name: 'titan rtx', isWaste: true},
+    {name: 'apple', isWaste: true},
+    {name: 'hypixel mvp',  isWaste: 'custom', custom: 'depends', explanation: 'do you like playing hypixel'},
+    {name: 'apple', isWaste: true},
     {name: 'air', isWaste: 'free'},
     {name: 'https', isWaste: 'custom', custom: 'depends', explanation: 'https is not a waste of money if you get it free'},
     {name: 'this website', isWaste: 'custom', custom: 'how dare you check if this website is a waste of money!! its free how could it possibly be???'},
@@ -23,5 +27,6 @@ const items  = [
     {name: 'faithful', isWaste: 'custom', custom: 'depends'},
     {name: 'css', isWaste: 'true', explanation: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'},
     {name: 'water', isWaste: 'custom', custom: 'depends', explanation: 'it really depends on a lot of things'},
-    {name: 'toilet paper', isWaste: true, explanation: 'welcome to 2020'}
+    {name: 'toilet paper', isWaste: true, explanation: 'welcome to 2020'}.
+    {name: 'water', isWaste: 'false'}
 ];
